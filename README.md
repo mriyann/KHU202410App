@@ -1,1 +1,1 @@
-# KHU202410App
+# Laptop Prediction App
